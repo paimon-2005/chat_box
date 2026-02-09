@@ -1,8 +1,6 @@
-<h1 align="center">💬 Chatify - Real-Time Chat Application</h1>
+<h1 align="center">💬 Chatbox - Real-Time Chat Application</h1>
 
-<p align="center">
-  <img src="/frontend/public/screenshot-for-readme.png" alt="Chatify App Screenshot" />
-</p>
+
 
 <p align="center">
   A modern, full-stack real-time chat application with authentication, email notifications, and cloud-based image uploads.
@@ -519,10 +517,12 @@ This project is licensed under the ISC License.
 
 ---
 
-## 👨‍💻 Author
+## 👥 Team Members
 
-**Paimon**
-- GitHub: [@paimon-2005](https://github.com/paimon-2005)
+This project was built with ❤️ by:
+
+- **Paimon** - [@paimon-2005](https://github.com/paimon-2005)
+- **Akshita** - [@Akshitakeshav](https://github.com/Akshitakeshav)
 
 ---
 
@@ -545,5 +545,3 @@ If you have any questions or need help, please:
 
 ---
 
-<p align="center">Made with ❤️ by Paimon</p>
-<p align="center">⭐ Star this repo if you found it helpful!</p>

@@ -96,6 +96,11 @@ function LoginPage() {
                     <span className="auth-badge">Easy Setup</span>
                     <span className="auth-badge">Private</span>
                   </div>
+
+                  <p className="mt-8 text-slate-500 text-sm">
+                    Built by <span className="text-slate-400">Paimon</span> &{" "}
+                    <span className="text-slate-400">Akshita</span>
+                  </p>
                 </div>
               </div>
             </div>
