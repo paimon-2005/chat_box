@@ -519,9 +519,9 @@ This project is licensed under the ISC License.
 
 ## 👥 Team Members
 
-This project was built with ❤️ by:
+This project was built  by:
 
-- **Paimon** - [@paimon-2005](https://github.com/paimon-2005)
+- **Abhijit** - [@paimon-2005](https://github.com/paimon-2005)
 - **Akshita** - [@Akshitakeshav](https://github.com/Akshitakeshav)
 
 ---
